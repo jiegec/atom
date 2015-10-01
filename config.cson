@@ -1,0 +1,28 @@
+"*":
+  "exception-reporting":
+    userId: "bfe53feb-edc5-1a3b-a8c4-236fc220337f"
+  welcome:
+    showOnStartup: false
+  core:
+    themes: [
+      "atom-material-ui"
+      "atom-material-syntax"
+    ]
+  editor:
+    invisibles: {}
+  minimap:
+    plugins:
+      linter: true
+  linter:
+    showErrorTabLine: true
+  emmet: {}
+  "atom-material-ui":
+    depth: true
+  "markdown-preview": {}
+  "git-log": {}
+  "atom-beautify":
+    _analyticsUserId: "3242689b-c44f-4d76-bb1c-b774b2253251"
+    indent_size: 2
+    indent_char: " "
+  "auto-update-packages":
+    intervalMinutes: 15
