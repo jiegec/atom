@@ -26,3 +26,4 @@
     indent_char: " "
   "auto-update-packages":
     intervalMinutes: 15
+  "autocomplete-plus": {}
